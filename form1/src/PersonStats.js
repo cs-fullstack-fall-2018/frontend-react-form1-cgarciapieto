@@ -52,3 +52,5 @@ class PersonStats extends Component {
     }
 }
 export default PersonStats;
+    
+// It looks like you didn't create a new variable in your state and setState it in your submit function.
